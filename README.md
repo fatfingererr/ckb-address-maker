@@ -1,3 +1,5 @@
+![CKB Address Maker](./logo.png)
+
 # CKB Address Maker
 
 A lightweight and efficient tool designed for bulk generation of CKB wallet addresses.
