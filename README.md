@@ -50,12 +50,6 @@ Make sure you have the following installed on your system:
 
 2. Open the generated CSV file to view the wallet information.
 
-```text
-mnemonic,seed,privateKey,address
-grant short ... minimum release, e3138681....947d5d4a, 0x72b.....0b27a, ckb1qyqq....taqkh
-fury elephant ... seat melody,   8fb49c7....115d8,     0xe62...80d5a7,  ckb1qyqr...c0ah3
-```
-
 ### Example Output
 
 Command:
@@ -71,9 +65,9 @@ Wallet addresses saved to wallets_20241118_153045.csv
 Generated CSV (`wallets_20241118_153045.csv`):
 ```csv
 mnemonic,seed,privateKey,address
-"grunt drama cute ...", "3bcce6f...", "0x6ed98a7...", "ckb1qyq..."
-"vault ladder brisk ...", "8ae93fa...", "0xf2cd89c...", "ckb1qyq..."
+grant short ... minimum release, e3138681....947d5d4a, 0x72b.....0b27a, ckb1qyqq....taqkh
 ...
+fury elephant ... seat melody,   8fb49c7....115d8,     0xe62...80d5a7,  ckb1qyqr...c0ah3
 ```
 ## Code Overview
 
