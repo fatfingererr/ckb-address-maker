@@ -1,0 +1,21 @@
+{
+  "name": "ckb-address-maker",
+  "version": "0.0.1",
+  "description": "A lightweight and efficient tool designed for bulk generation of CKB wallet addresses.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatfingererr",
+  "license": "MIT",
+  "dependencies": {
+    "@nervosnetwork/ckb-sdk-core": "^0.109.3",
+    "@nervosnetwork/ckb-sdk-utils": "^0.109.3",
+    "bip32": "^5.0.0-rc.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^7.0.0-rc.0",
+    "ckb-js-toolkit": "^0.11.0",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
